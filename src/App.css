@@ -1,0 +1,57 @@
+/* App.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #EFE8D3;
+}
+
+.navbar {
+  background-color: #333;
+  padding: 1rem;
+}
+
+.navbar ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.navbar ul li {
+  color: #fff;
+}
+
+.navbar ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+section {
+  padding: 2rem;
+  margin: 1rem;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #333;
+}
+
+ul {
+  list-style-type: square;
+}
+
+.project, .experience {
+  margin-bottom: 2rem;
+}
+
+a {
+  color: #333;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #0073e6;
+}
