@@ -6,11 +6,11 @@ const Projects = () => {
       <h2>Projects</h2>
       <div className="project">
         <h3>Project 1: Accounting Applications</h3>
-        <p>Built an application that has Accont Payable, Account Receivable General Ledger that uses MSSQL, C#, .Net Webforms, Javascript and Jquery</p>
+        <p>Built an application that has accounts payable, accounts receivable, general ledger that uses MSSQL, C#, .Net Webforms, Javascript and Jquery</p>
       </div>
       <div className="project">
         <h3>Project 2: Forex Trading Platform</h3>
-        <p>An application that allows to Trade Forex in different kinds of currencies around the world. It uses C#, Asp.Net Webform, Asp.Net MVC, Blazor,ReactJS, Javascript, Jquery, Search Engine Optimization,SVNTortoise, MySQL</p>
+        <p>An application that allows to Trade Forex in different kinds of currencies around the world. It uses C#, Asp.Net Webform, Asp.Net MVC, Blazor,ReactJS, Javascript, Jquery, Search Engine Optimization, SVNTortoise, MySQL</p>
         <a href="https://www.instaforex.com/" target="_blank" rel="noopener noreferrer">InstaForex</a>
       </div>
       <div className="project">
@@ -21,9 +21,9 @@ const Projects = () => {
       </div>
       <div className="project">
         <h3>Project 3: Forex Copy trading API</h3>
-        <p>During this period of time, there's a new feature that is trend in crypto/forex industry and that is for allowing the user to copy another trader transaction at the expense of extra commission per Profit.
-          The Trader can opted how many commission he wants to gain per his profit on his/her follower, while the Follower can allow how much leverage and S/L,T/P they want thats the sort story of this feature.
-          I'm the one who lead to develop this from scratch design its architecture/pattern/deployment etc so there's numerous technologies that I used here which is C#.Net, .Net Core, Windows Server, MSSQL, Email Server, Repository, CI/CD, API
+        <p>During this period of time, there's a new feature that is trend in crypto/forex industry and that is for allowing the user to copy another trader transaction at the expense of extra commission per profit.
+          The trader can opted how many commission he wants to gain per profit on his/her follower, while the follower can allow how much leverage and S/L,T/P they want thats the sort story of this feature.
+          I'm the one who lead to develop this from scratch design its architecture/pattern/deployment etc so there's numerous technologies that were used here which is C#.Net, .Net Core, Windows Server, MSSQL, Email Server, Repository, CI/CD, API
         </p>
       </div>
       <div className="project">
@@ -41,8 +41,8 @@ const Projects = () => {
       </div>
       <div className="project">
         <h3>Project 6: Loaning Application</h3>
-        <p>This project is created for certain Big Bank Company here in the Philippines that allows its employee to have an advance/salary loan and is an only in house application.
-          This is created by this technologies  C#.Net MVC API, .Net Core, MSSQL, SMS Server, Email Server , Window Service, Github, CI/CD, API Management
+        <p>This project is created for one of the biggest bank company here in the Philippines that allows its employee to have an advance/salary loan and its only an in house application.
+          This is created using this technologies :  C#.Net MVC API, .Net Core, MSSQL, SMS Server, Email Server , Window Service, Github, CI/CD, API Management
         </p>
       </div>
       <div className="project">
@@ -53,10 +53,10 @@ const Projects = () => {
       </div>
       <div className="project">
         <h3>Project 7: Insurance Portal</h3>
-        <p>This project where underwriter creates there insurance its an inhouse application from an re-insurance company that mainly targets another insurance company as its client.
+        <p>This project where underwriter creates their insurance its an inhouse application from a re-insurance company that mainly targets another insurance company as its client.
           We navigate usually here from the system that the vendor created which is from the form of vb.net, MSSQL as its database.
-          What we mostly do here is add additional customization on the top of what our vendor original process/flow by integrating some vb.net snippet and some dll, services 
-          that uses C#.Net, ASP.Net API, Javascript, Jquery. We also manage on converting our build process to highly maximize any automation tools which involves Github Actions, CI/CD, Azure, Docker, Kubernetes, Jfrog, PowerShell,Harness, Dynatrace, PowerBI, Mabl
+          What we mostly do here is add additional customization on the top of what our vendors original process/flow by integrating some vb.net snippet and some dll, services 
+          that uses C#.Net, ASP.Net API, Javascript, Jquery. We also manage on converting our build process to maximize any automation tools which involves Github Actions, CI/CD, Azure, Docker, Kubernetes, Jfrog, PowerShell,Harness, Dynatrace, PowerBI, Mabl
         </p>
       </div>
       <div className="project">
@@ -67,7 +67,7 @@ const Projects = () => {
       </div>
       <div className="project">
         <h3>Project 8:ART</h3>
-        <p>This project is just a locally used/demo on which we manage the time tracker of the employee within the local branch so it can be easily monitored by department by the local management. However I only helped for a while in this project as this one is only for prototype only as we are already using a 3rd party time tracker.
+        <p>This project is just a locally used/demo on which it manage the time tracker of the employee within the local branch so it can be easily monitored per department by the local management. However I only helped for a while in this project as this one is only for prototype/mock project only as we are already have a 3rd party time tracker.
           This uses C#.Net, .Net Core, ReactJS, Javascript, Jquery, Blazor, API, MSSQL
         </p>
       </div>
